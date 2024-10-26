@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">T3A3JonathanPieraTorregrosa</string>
+    <string name="iniciar_sesi_n">Login</string>
+    <string name="introduce_el_usuario">Enter a user</string>
+    <string name="introduce_la_contrase_a">Enter a password</string>
+    <string name="obligatorio">obligatory</string>
+    <string name="entrar">Enter</string>
+    <string name="salir">Exit</string>
+    <string name="posici_n_global">GLOBAL POSITION</string>
+    <string name="movimientos">MOVEMENTS</string>
+    <string name="transferencias">TRANSFERENCES</string>
+    <string name="cambiar_contrase_a">CHANGE PASSWORD</string>
+    <string name="promociones">PROMOTIONS</string>
+    <string name="cajeros">ATM</string>
+</resources>
